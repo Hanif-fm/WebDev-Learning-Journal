@@ -3,7 +3,7 @@
 ### **Tahap 1: Dasar-Dasar Front-End**
 
 #### **Minggu 1-2**
-- [ ] **HTML Basics**: Pelajari tag, elemen, atribut, forms, dan media.
+- [x] **HTML Basics**: Pelajari tag, elemen, atribut, forms, dan media.
 - [ ] **Buat halaman HTML sederhana**.
 - [ ] **CSS Basics**: Pelajari styling dasar (font, warna, layout, box model).
 - [ ] **Buat desain sederhana dengan CSS**.
